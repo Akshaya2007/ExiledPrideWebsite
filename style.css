@@ -1,0 +1,26 @@
+body {background-size:cover;}
+.ba {background-color: grey;}
+.bb {background-color: aqua;}
+.one {color:aqua;}
+.a {color:white; font-size: larger;}
+.d {color:white; font-size: larger; text-align: center;}
+a:link {
+    color: white;
+  }
+a:visited {
+    color:orange;
+  }  
+a:hover {
+    color: yellow;
+  }
+.b {color:white; font-size: larger}
+.c {color: black; font-size: xx-large;}
+td {color: aqua;}
+.ha {color: blue;}
+.ta {color: aqua;}
+.mg {height: 75px;}
+.tc {font-size: xx-large;}
+.bodya {color: aqua; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h1 {color:lime; border-style: solid; border-color: yellow;}
+.forma {color: aqua; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h2 {color: yellow; border-style: solid; border-color: lime;}
